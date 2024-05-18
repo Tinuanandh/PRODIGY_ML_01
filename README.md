@@ -2,6 +2,10 @@
 
 Welcome to my first machine learning project! The primary objective of this project is to predict prices using machine learning techniques. I have conducted a basic Exploratory Data Analysis (EDA) on the dataset and implemented three different models. The goal is to compare these models and determine the best-performing one for price prediction.
 
+## Important Note
+
+ The IDE used was Juypter Notebook hence the codes will be in the ipnb (i python note book) format .
+
 ## Exploratory Data Analysis (EDA)
 
 I began by thoroughly exploring the dataset to gain a deeper understanding of its characteristics. This involved analyzing data distributions, identifying outliers, handling missing values, and visualizing key trends. EDA played a crucial role in informing subsequent modeling decisions and ensuring a comprehensive understanding of the data.
